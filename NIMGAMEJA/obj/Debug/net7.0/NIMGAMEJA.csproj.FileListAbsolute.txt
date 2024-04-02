@@ -1,0 +1,15 @@
+C:\Users\BreitenbaEd\source\repos\NIMGAMEJA\NIMGAMEJA\bin\Debug\net7.0\NIMGAMEJA.exe
+C:\Users\BreitenbaEd\source\repos\NIMGAMEJA\NIMGAMEJA\bin\Debug\net7.0\NIMGAMEJA.deps.json
+C:\Users\BreitenbaEd\source\repos\NIMGAMEJA\NIMGAMEJA\bin\Debug\net7.0\NIMGAMEJA.runtimeconfig.json
+C:\Users\BreitenbaEd\source\repos\NIMGAMEJA\NIMGAMEJA\bin\Debug\net7.0\NIMGAMEJA.dll
+C:\Users\BreitenbaEd\source\repos\NIMGAMEJA\NIMGAMEJA\bin\Debug\net7.0\NIMGAMEJA.pdb
+C:\Users\BreitenbaEd\source\repos\NIMGAMEJA\NIMGAMEJA\obj\Debug\net7.0\NIMGAMEJA.csproj.AssemblyReference.cache
+C:\Users\BreitenbaEd\source\repos\NIMGAMEJA\NIMGAMEJA\obj\Debug\net7.0\NIMGAMEJA.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\BreitenbaEd\source\repos\NIMGAMEJA\NIMGAMEJA\obj\Debug\net7.0\NIMGAMEJA.AssemblyInfoInputs.cache
+C:\Users\BreitenbaEd\source\repos\NIMGAMEJA\NIMGAMEJA\obj\Debug\net7.0\NIMGAMEJA.AssemblyInfo.cs
+C:\Users\BreitenbaEd\source\repos\NIMGAMEJA\NIMGAMEJA\obj\Debug\net7.0\NIMGAMEJA.csproj.CoreCompileInputs.cache
+C:\Users\BreitenbaEd\source\repos\NIMGAMEJA\NIMGAMEJA\obj\Debug\net7.0\NIMGAMEJA.dll
+C:\Users\BreitenbaEd\source\repos\NIMGAMEJA\NIMGAMEJA\obj\Debug\net7.0\refint\NIMGAMEJA.dll
+C:\Users\BreitenbaEd\source\repos\NIMGAMEJA\NIMGAMEJA\obj\Debug\net7.0\NIMGAMEJA.pdb
+C:\Users\BreitenbaEd\source\repos\NIMGAMEJA\NIMGAMEJA\obj\Debug\net7.0\NIMGAMEJA.genruntimeconfig.cache
+C:\Users\BreitenbaEd\source\repos\NIMGAMEJA\NIMGAMEJA\obj\Debug\net7.0\ref\NIMGAMEJA.dll
